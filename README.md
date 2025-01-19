@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RemasAlissa
+- 👋 Hi, I’m Remas Alissa
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning front-end development
 - 💞️ I’m looking to collaborate on exciting projects and sharing ideas
