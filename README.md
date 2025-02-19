@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Remas Alissa
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on exciting projects and sharing ideas
-- 📫 You can reach me through my email Remasaliessa@gmail.com
+...
 
 
 <!---
