@@ -1,5 +1,4 @@
 ````markdown name=README.md
-# Remas Alissa
 
 Welcome to my GitHub profile repository. Here you can learn about my projects, contributions, and ongoing work in software development.
 
