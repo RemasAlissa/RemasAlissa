@@ -7,5 +7,5 @@ I work with **SQL, Excel, Tableau, and Power BI** to clean data, analyze it, and
 For me, data analysis is about turning numbers into insights that people can actually use.  
 
 ## Get in Touch
-- LinkedIn: [linkedin.com/in/remas-alissa]  
+- LinkedIn: [www.linkedin.com/in/remas-alissa]  
 - Email: [Remasaliessa@gmail.com]  
